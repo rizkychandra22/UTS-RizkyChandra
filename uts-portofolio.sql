@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 27 Bulan Mei 2024 pada 18.15
+-- Waktu pembuatan: 28 Bulan Mei 2024 pada 04.13
 -- Versi server: 10.4.32-MariaDB
 -- Versi PHP: 8.2.12
 
@@ -46,7 +46,7 @@ CREATE TABLE `portofolio` (
 --
 
 INSERT INTO `portofolio` (`id`, `desc1`, `desc2`, `desc3`, `desc4`, `desc5`, `desc6`, `desc7`, `desc8`, `desc9`, `desc10`) VALUES
-(1, 'Saya Rizky Chandra Khusuma mahasiswa Teknik Informatika semester 6.\r\n', 'Bergabung dalam organisasi pencak silat Pagar Nusa sejak umur 17 tahun', 'Nama saya Rizky Chandra Khusuma berasal Lampung. Saya menjadi mahasiswa di kampus Universitas Muhammadiyah Sukabumi jurusan Teknik Informatika semester 6.', 'Saya merasa senang bisa berkuliah di kampus ini karena saya bisa mendapatkan banyak materi pembelajaran baik itu dalam akademik maupun luar akademik. ', 'Dalam bidang akademik saya mengambil jurusan Informatika, banyak materi yang bisa saya dapatkan di kuliah ini terutama di bidang Informatika mengenai materi bahasa pemograman dan perangkat komputer.', 'Di luar akademik saya juga mengikuti UKM Lises Asmarandana. Dalam UKM Lises Asmarandana saya belajar mengenai alat musik tradisional dan modern, dan juga melatih bakat yang saya miliki di bidang musik.', 'Saya juga memiliki hobi baru selain bermain musik. Hobi ini saya kenal sejak kelas 2 SMA tepatnya pada usia 17 tahun. Organisasi pencak silat yang saya ikuti yaitu Pagar Nusa.', 'Awalnya saya memiliki ketertarikan pada dunia olahraga dibidang seni bela diri di umur 13 tahun pada saat SMP kelas 2. Namun di umur yang masih muda ini saya di larang orang tua untuk mengikuti bela diri.', 'Karena orang tua khawatir jika terjadi celaka pada saat latihan bela diri. Tetapi saya selalu berusaha agar bisa mengikuti latihan bela diri dengan cara meyakinkan orang tua. ', 'Dan akhirnya setelah saya berumur 17 tahun orang tua mengizinkan untuk anak mengikuti latihan bela diri.');
+(1, 'Saya Rizky Chandra Khusuma mahasiswa Teknik Informatika semester 6.\r\n', 'Bergabung dalam organisasi pencak silat Pagar Nusa sejak umur 17 tahun', 'Nama saya Rizky Chandra Khusuma berasal Lampung. Saya menjadi mahasiswa di kampus Universitas Muhammadiyah Sukabumi jurusan Teknik Informatika semester 6.', 'Saya lahir pada tanggal 22 April 2003, dan saat ini usia saya 21 tahun. Saya anak pertama dari 3 bersaudara, dan saya menjadi salah satu harapan orang tua dalam pendidikan.', 'Dalam bidang akademik saya mengambil jurusan Informatika, banyak materi yang bisa saya dapatkan di kuliah ini terutama di bidang Informatika mengenai materi bahasa pemograman dan perangkat komputer.', 'Di luar akademik saya juga mengikuti UKM Lises Asmarandana. Dalam UKM Lises Asmarandana saya belajar mengenai alat musik tradisional dan modern, dan juga melatih bakat yang saya miliki di bidang musik.', 'Saya juga memiliki hobi baru selain bermain musik. Hobi ini saya kenal sejak kelas 2 SMA tepatnya pada usia 17 tahun. Organisasi pencak silat yang saya ikuti yaitu Pagar Nusa.', 'Awalnya saya memiliki ketertarikan pada dunia olahraga dibidang seni bela diri di umur 13 tahun pada saat SMP kelas 2. Namun di umur yang masih muda ini saya di larang orang tua untuk mengikuti bela diri.', 'Karena orang tua khawatir jika terjadi celaka pada saat latihan bela diri. Tetapi saya selalu berusaha agar bisa mengikuti latihan bela diri dengan cara meyakinkan orang tua. ', 'Dan akhirnya setelah saya berumur 17 tahun orang tua mengizinkan untuk anak mengikuti latihan bela diri.');
 
 --
 -- Indexes for dumped tables
